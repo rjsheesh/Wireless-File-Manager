@@ -59,3 +59,8 @@ self.scrcpy_path = r"C:\Your\Path\To\scrcpy-win64"
 - Mirror Screen
 - Pull Videos
 - Push Files
+
+## 👨‍💻 Developed By
+
+**fabiTECH**  
+*Crafted for seamless productivity and wireless freedom.*
